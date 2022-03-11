@@ -1,2 +1,2 @@
 # Allincare
-Prjeto de Pesquisa e Inovação
+Projeto de Pesquisa e Inovação
